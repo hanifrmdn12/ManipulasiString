@@ -1,0 +1,16 @@
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\bin\Debug\net8.0-windows\Pertemuan 6.exe
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\bin\Debug\net8.0-windows\Pertemuan 6.deps.json
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\bin\Debug\net8.0-windows\Pertemuan 6.runtimeconfig.json
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\bin\Debug\net8.0-windows\Pertemuan 6.dll
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\bin\Debug\net8.0-windows\Pertemuan 6.pdb
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan_6.Form1.resources
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.vbproj.GenerateResource.cache
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.AssemblyInfoInputs.cache
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.AssemblyInfo.vb
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.vbproj.CoreCompileInputs.cache
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.dll
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\refint\Pertemuan 6.dll
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.pdb
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\Pertemuan 6.genruntimeconfig.cache
+D:\Hanif\Coding\Visual Basic\Pertemuan 6\Pertemuan 6\obj\Debug\net8.0-windows\ref\Pertemuan 6.dll
